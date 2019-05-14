@@ -7,3 +7,4 @@ This is the RoboFriendsApp(v2) with Error Boundary(in React) for better user exp
 * npm install
 * npm start
 
+Then, to see the app, just comment the "if statement" from *CardList.js* file.
