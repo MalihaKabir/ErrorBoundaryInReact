@@ -6,7 +6,7 @@ const CardList = ({ robots }) => {
 	if (true) {
 		throw new Error('NOOOOOOO!');
 	}
-	// the above if-statement.
+	// comment the above if-statement to see the app.
 	return (
 		<div>
 			{robots.map((user, index) => {
