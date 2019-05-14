@@ -1,0 +1,25 @@
+/* @import url('https://fonts.googleapis.com/css?family=Germania+One|Roboto+Mono');
+
+h1 {
+	font-family: 'Germania One', cursive;
+	font-family: 'Roboto Mono', monospace;
+} */
+
+/* OR */
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+h1 {
+	font-family: 'Press Start 2P', cursive;
+    font-weight: 400;
+	color: #00394d;
+	/* color: #00334d; */
+	/* color: rgb(9, 61, 61); */
+}
+
+/* OR */
+/* @import url('https://fonts.googleapis.com/css?family=Monoton');
+
+h1 {
+	font-family: 'Monoton', cursive;
+	font-weight: 400;
+} */
