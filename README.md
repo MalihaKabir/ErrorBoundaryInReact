@@ -10,4 +10,5 @@ This is the RoboFriendsApp(v2) with Error Boundary(in React) for better user exp
 
 Then, to see the app, just comment the "if statement" from *CardList.js* file and the app will be visible:
 
-![screencapture-localhost-3000-2019-05-15-01_55_56](https://user-images.githubusercontent.com/43598622/57731297-29e03700-76bc-11e9-9e0f-8e4ccd37bd9d.jpg)
+![screencaptureForRedux](https://user-images.githubusercontent.com/43598622/57880861-ae0ff700-7841-11e9-82b3-481ae9dde197.jpg)
+
